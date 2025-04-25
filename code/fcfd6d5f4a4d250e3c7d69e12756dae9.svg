@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 125 28" height="28" width="125">
+<rect fill="white" transform="rotate(-45 2.82837 19.0928)" height="8" width="23" y="19.0928" x="2.82837"></rect>
+<rect fill="white" height="8" width="17" y="1" x="5"></rect>
+<circle fill="white" transform="rotate(-45 5.65685 21.9209)" r="4" cy="21.9209" cx="5.65685"></circle>
+<circle fill="white" transform="rotate(-45 21.9203 5.65723)" r="4" cy="5.65723" cx="21.9203"></circle>
+<circle fill="white" r="4" cy="5" cx="5"></circle>
+<circle fill="white" r="4" cy="5" cx="22"></circle>
+<rect fill="white" height="8" width="17" y="18" x="6"></rect>
+<circle fill="white" r="4" cy="22" cx="6"></circle>
+<circle fill="white" r="4" cy="22" cx="23"></circle>
+<rect fill="white" height="8" width="17" y="1.5" x="30"></rect>
+<rect fill="white" transform="rotate(-90 34.5 23)" height="8" width="21" y="23" x="34.5"></rect>
+<circle fill="white" r="4" cy="5.5" cx="47"></circle>
+<circle fill="white" r="4" cy="5.5" cx="30"></circle>
+<circle fill="white" transform="rotate(-90 38.5 22.5)" r="4" cy="22.5" cx="38.5"></circle>
+<rect fill="white" height="6" width="17" y="1.5" x="55"></rect>
+<rect fill="white" height="6" width="17" y="10.5" x="55"></rect>
+<rect fill="white" height="6" width="17" y="20.5" x="55"></rect>
+<rect fill="white" transform="rotate(-90 51 22)" height="8" width="17" y="22" x="51"></rect>
+<circle fill="white" r="3" cy="4.5" cx="72"></circle>
+<circle fill="white" r="3" cy="13.5" cx="72"></circle>
+<circle fill="white" r="3" cy="23.5" cx="72"></circle>
+<circle fill="white" r="4" cy="5.5" cx="55"></circle>
+<circle fill="white" transform="rotate(-90 55 22.5)" r="4" cy="22.5" cx="55"></circle>
+<rect fill="white" height="8" width="17" y="1.5" x="79"></rect>
+<rect fill="white" height="8" width="17" y="18.5" x="79"></rect>
+<rect fill="white" transform="rotate(-90 75 22)" height="8" width="17" y="22" x="75"></rect>
+<circle fill="white" r="4" cy="5.5" cx="96"></circle>
+<circle fill="white" r="4" cy="22.5" cx="96"></circle>
+<circle fill="white" r="4" cy="5.5" cx="79"></circle>
+<circle fill="white" transform="rotate(-90 79 22.5)" r="4" cy="22.5" cx="79"></circle>
+<rect fill="white" height="8" width="17" y="10.5" x="104"></rect>
+<rect fill="white" transform="rotate(-90 100 22)" height="8" width="17" y="22" x="100"></rect>
+<rect fill="white" transform="rotate(-90 117 22)" height="8" width="17" y="22" x="117"></rect>
+<circle fill="white" r="4" cy="5.5" cx="121"></circle>
+<circle fill="white" r="4" cy="22.5" cx="121"></circle>
+<circle fill="white" r="4" cy="5.5" cx="104"></circle>
+<circle fill="white" transform="rotate(-90 104 22.5)" r="4" cy="22.5" cx="104"></circle>
+</svg>
